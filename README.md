@@ -19,10 +19,11 @@
 - cmake .. -DWITH_HWLOC=OFF -DCMAKE_BUILD_TYPE=Release -DARM_TARGET=8 -DWITH_OP$
 - build the project make -j$(nproc)
 - OR make -j2 
-
+- email at alexcarll@yahoo.com with questions or concerns
 - Donations welcome! 
 
->>
+>
+>
 >-** XMR:** 45bJkL5UQgDUcQGkDjCHFHioMwDnM3J5KRDYSErQP1NpeYCvadP4CVabWdYUQzZkBaJAqG1bcuDAh3pVC49TSHJQ8HdGzVL
 >
 >
