@@ -3,7 +3,7 @@
  
  Welcome to the AndroidMining wiki!
 
--  This small project is to share how  i successfully started  mining XMR/RVN w$
+-  This small project is to share how  i successfully started  mining XMR/RVN 
 - download Termux on to your **android** phone from the google play store
 - create a Monero wallet. here is MyMonero [https://mymonero.com](mymonero). this app all$
 - open the Termux app
